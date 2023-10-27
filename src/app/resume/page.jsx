@@ -3,7 +3,7 @@ import React from 'react';
 export default function Resume() {
     return (
         <div>
-            {/* Yoeur resume content goes here */}
+            <h1>Resume</h1> 
         </div>
     );
 };
